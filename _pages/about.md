@@ -93,7 +93,7 @@ redirect_from:
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, Master, Shandong University, China.
 
-&nbsp; &nbsp; &nbsp; &nbsp;Major: Control Science and Engineering &nbsp;&nbsp;&nbsp;&nbsp; GPA: 3.86 / 4  
+&nbsp; &nbsp; &nbsp; &nbsp;Major: Control Science and Engineering &nbsp;&nbsp;&nbsp;&nbsp; GPA: 3.92 / 4  
 
 - *2019.09 - 2023.06*, Bachelor, Zhejiang Sci-Tech University, China. 
 
