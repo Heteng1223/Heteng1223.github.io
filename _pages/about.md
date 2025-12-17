@@ -26,6 +26,8 @@ redirect_from:
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉 One paper is acaccepted by IEEE Robotics and Automation Letters. 
+- *2025.10*: &nbsp;🎉 National Scholarship at Shandong University. 
 - *2025.08*: &nbsp;🎉 One paper is acaccepted by Engineering Applications of Artificial Intelligence (EAAI). 
 - *2025.07*: &nbsp;🎉 One paper is acaccepted by IEEE Transactions on Industrial Informatics (TII). 
 
@@ -42,7 +44,7 @@ redirect_from:
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-
+- [An Intention-Guided Reinforcement Learning Approach with Dirichlet Energy Constraint for Heterogeneous Multi-Robot Cooperation](), **Heteng Zhang**, Yunjie Jia, Zihao Sun, Yong Song, Bao Pang, Xianfeng Yuan, Rui Song, Simon X. Yang, **IEEE Robotics and Automation Letters**
 - [An Adaptive Reinforcement Learning Approach with Trait-Awareness for Heterogeneous Multi-Robot Cooperative Pursuit](), **Heteng Zhang**, Yunjie Jia, Yong Song, Bao Pang, Xianfeng Yuan, Rui Song, Simon X. Yang, **Engineering Applications of Artificial Intelligence**
 - [Empowering Multi-Robot Flocking in Complex  Environments via Effective Communication: A  Deep Reinforcement Learning Approach](), Yunjie Jia, Yong Song, Jiyu Cheng, **Heteng Zhang**, Wei Zhang, Rui Song, Simon X. Yang and Sam Kwong, **IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS**
 
@@ -80,6 +82,7 @@ redirect_from:
 </div>
 
 # 🏆 Honors and Awards
+- *2025.10* **National Scholarship**. 
 - *2023.10* **First Prize** in China Robotics Competition and **RoboCup** China Regional Competition (5th Place Nationwide). 
 - *2023.04* **Second Prize** in **RoboMaster** Mech Master University League Competition. 
 - *2023.04* **Second Prize** in China University Intelligent Robot Creative Competition.
